@@ -1,6 +1,6 @@
 # ˚₊‧꒰ა Hola, soy [Sofía](https://github.com/sofiaotero-ascii) ໒꒱ ‧₊˚ 
 
-💖 **Estudiante de DAM** | **Web Designer** |  **Terminal Lover**  
+💖 **Estudiante de DAM** | **Web Designer** | **Terminal Lover**  
 ✨ *"Transformando líneas de código en interfaces bonitas."*  
 
 <p align="center">
